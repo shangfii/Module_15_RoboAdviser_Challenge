@@ -26,9 +26,11 @@ to "Run Code without Thinking about Servers"
 
 
 [chatbot with Lamda showing wrong requests](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/Wrong%20response%20test.mov)
+
+
 [Working code](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/workingcode.mov)
 
-Features of the code:
+# Features of the code:
 
 
 # To make this : 

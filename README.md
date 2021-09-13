@@ -18,11 +18,11 @@ to "Run Code without Thinking about Servers"
 ## See Lex and Lamda at work:
 
 
-Chatbot with no lamda intergraded [Chatbot with no lamda intergraded](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/workingcode.mov)
+[Chatbot with no lamda intergraded](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/workingcode.mov)
 
 
 
- [Chatbot with lamda showing correct response](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/correct%20response.mov)
+[Chatbot with lamda showing correct response](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/correct%20response.mov)
 
 
 [chatbot with Lamda showing wrong requests](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/Wrong%20response%20test.mov)

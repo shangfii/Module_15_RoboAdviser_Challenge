@@ -15,16 +15,18 @@ datetime, dateutil, dateutil, Logging and Numpy
 Create an account with AWS and make use of Amazon Lex to "Build Voice and Text Chatbots" ( for lamda function) and Lamda to 
 to "Run Code without Thinking about Servers"
 
-## Lex and Lamda at work:
+## See Lex and Lamda at work:
 
 
-Chatbot with no lamda intergraded
+Chatbot with no lamda intergraded [Chatbot with no lamda intergraded](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/workingcode.mov)
 
 
-Chatbot with lamda showing correct response 
+
+ [Chatbot with lamda showing correct response](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/correct%20response.mov)
 
 
-chatbot with Lamda showing wrong requests 
+[chatbot with Lamda showing wrong requests](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/Wrong%20response%20test.mov)
+[Working code](https://github.com/shangfii/Module_15_RoboAdviser_Challenge/blob/main/images/workingcode.mov)
 
 Features of the code:
 
